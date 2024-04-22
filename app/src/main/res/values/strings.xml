@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Handphone App</string>
+
+    <string name="add_handphone_name">Add Handphone Name</string>
+    <string name="handphone_name">Handphone Name</string>
+    <string name="brand">Brand</string>
+    <string name="handphone_class">Handphone Class</string>
+    <string name="price">Price</string>
+    <string name="no_handphone">No Handphone</string>
+    <string name="text_empty_content">No Handphone Found</string>
+    <string name="add_handphone">Add Handphone</string>
+    <string name="update_handphone">Update Handphone</string>
+    <string name="delete_handphone">Delete Handphone</string>
+    <string name="all_handphones_title">Handphones List</string>
+
+</resources>
